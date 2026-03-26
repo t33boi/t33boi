@@ -22,6 +22,9 @@ I don't just write code — I solve problems. Mobile & fullstack developer with 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
@@ -36,21 +39,21 @@ I don't just write code — I solve problems. Mobile & fullstack developer with 
 
 ## What I've Built
 
-- **PitchFlow** — AI-powered presentation builder with real-time collaboration, DALL-E image generation, and Stripe payments
-- **Food2Go** — Multi-platform food delivery ecosystem (4 apps: customer, rider, vendor dashboard, admin) with real-time order tracking
-- **SpeakEasy** — AI conversation trainer with speech-to-text and adaptive difficulty using Llama 3.3
-- **Daarurahmah** — Educational platform serving 200+ students with timed assessments and audio recording
-- **Vital Flow** — Blood donor management app that improved matching efficiency by 30%
+- **PitchFlow** — AI-powered presentation builder with real-time collaboration, DALL-E image generation, and Stripe payments  
+- **Food2Go** — Multi-platform food delivery ecosystem (4 apps: customer, rider, vendor dashboard, admin) with real-time order tracking  
+- **SpeakEasy** — AI conversation trainer with speech-to-text and adaptive difficulty using Llama 3.3  
+- **Daarurahmah** — Educational platform serving 200+ students with timed assessments and audio recording  
+- **Vital Flow** — Blood donor management app that improved matching efficiency by 30%  
 
 ## Numbers
 
-- **50+** projects shipped
-- **30+** happy clients
-- **4** apps in a single ecosystem (Food2Go)
-- **200+** students on one platform
+- **50+** projects shipped  
+- **30+** happy clients  
+- **4** apps in a single ecosystem (Food2Go)  
+- **200+** students on one platform  
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiwo-etti)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/etti_olakule)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiwo-etti)  
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/etti_olakule)  
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ettiolakunle5@gmail.com)
